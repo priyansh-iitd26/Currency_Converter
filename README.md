@@ -1,4 +1,19 @@
 # Currency_Converter
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [Setup and Usage](#setup-and-usage)
+- [API Integration](#api-integration)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
+
+---
+
+
 **Project Overview**
 
 The Currency Converter is a web application developed purely using HTML, CSS, and JavaScript. This project enables users to convert between various currencies using real-time exchange rates fetched from the [currencyapi](https://currencyapi.com/) API. The application provides a user-friendly interface and accurate currency conversion calculations.
